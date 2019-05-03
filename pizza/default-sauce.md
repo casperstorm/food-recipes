@@ -27,5 +27,4 @@ This is the default sauce I use for my homemade pizzas. What makes this sauce sp
 7. Add your crushed tomatoes to the pot and stir. Bring to medium heat.
 8. Add salt, pepper and sugar 
 9. Simmer gently for 35-40 minutes
-
-### Tips
+10. And voilà, you are ready!
