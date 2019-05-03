@@ -1,4 +1,6 @@
 
+![](../assets/fishy-pizza-sauce.png)
+
 # fishy pizza sauce
 This is the default sauce I use for my homemade pizzas. What makes this sauce special is that it uses anchovies and "San Marzano" tomatoes. "San Marzano" tomatoes can be hard to come by, so if you can’t find any, then order some online because they are worth it.
 
