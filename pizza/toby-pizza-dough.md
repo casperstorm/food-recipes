@@ -1,32 +1,34 @@
 # toby pizza dough
 This longer but really good dough. All credit goes to Toby.
 
-**Preparation**: 30 min  
-**Wait**: +48-72 hours   
+**Preparation**: 45 min  
+**Wait**: +24-48 hours   
 **Makes**: ~4 pizzas
 
 ## Ingredients 
   * 4dl water (room temp)
-  * 600g flour (I used Manitoba)
-  * 8g sugar (helps caramelizing the crust at ‘lower’ temperatures of regular ovens)
+  * 600g flour (Manitoba or Tipo 00)
+  * 8g sugar
   * 20g salt
   * 15g olive oil
-  * 1g yeast (I use organic cake yeast)
+  * 1g yeast
   * 1-2 tsp sourdough (can be left out but gives the dough a light zesty flavour - consider adding another gram of yeast if you don’t use sour dough)
 
-Day 1
+## Directions
+
+### Day 1
 
 In a bowl
 
 Dissolve sugar, yeast and sourdough (if using) into water.
 Add flour - start by mixing in half till all lumps are gone, then the rest
-Let dough rest for 20 mins - get the yeast starting
 Add olive oil + salt - knead until it's mostly absorbed, then move the dough to a clean table
 On the table
 
 Kneading: Knead thoroughly, at least 15-20 min, by folding the dough on top of itself and pressing down - repeat. Clean your hands with a tiny amount of flour if it gets too sticky. Or use a stand mixer if you’re that lucky.
 Rest: After kneading, lets rest for about 20 min. Either on the table covered in a damp cloth or in a covered bowl.
-Stretch & fold - When the dough has rested 20 min and loosened up a bit, stretch it out in one side, and fold it onto itself. Repeat this for all 4 sides of the dough or until it gets too tight to stretch. This builds strength in the dough and lets it proof a bit before being transferred to the fridge.
+Stretch & fold - When the dough has rested 20 min and loosened up a bit, stretch it out in one side, and fold it onto itself. Repeat this for all 4 sides of the dough or until it gets too tight to stretch. This builds strength in the dough and lets it proof a bit before being transferred to the fridge:
+
 Rest 20 min.
 Stretch & fold
 Rest
@@ -34,8 +36,10 @@ Stretch & fold
 Proofing
 
 Transfer dough to a bowl. Cover tightly in plastic wrap
-Proofing: Put in a fridge for 24-48 hours (I proofed mine about 40 hours; transferred to the fridge around midnight day 1, and used shaped them into balls around 16:00 on day 3)
-Day 2-3 (depending on proofing duration)
+Proofing: Put in a fridge for 24-48 hours
+
+
+### Day 2-3 (depending on proofing duration)
 
 On the table
 
