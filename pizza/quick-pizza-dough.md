@@ -1,5 +1,5 @@
 
-# default pizza dough
+# qucik pizza dough
 This is the default dough I use for all my homemade Pizzas. And its great.
 
 **Preparation**: 20 min  
