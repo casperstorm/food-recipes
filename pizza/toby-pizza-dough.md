@@ -1,10 +1,18 @@
-4dl water (room temp)
-600g flour (I used Manitoba)
-8g sugar (helps caramelizing the crust at ‘lower’ temperatures of regular ovens)
-20g salt
-15g olive oil
-1g yeast (I use organic cake yeast)
-1-2 tsp sourdough (can be left out but gives the dough a light zesty flavour - consider adding another gram of yeast if you don’t use sour dough)
+# toby pizza dough
+This longer but really good dough. All credit goes to Toby.
+
+**Preparation**: 30 min  
+**Wait**: +48-72 hours   
+**Makes**: ~4 pizzas
+
+## Ingredients 
+  * 4dl water (room temp)
+  * 600g flour (I used Manitoba)
+  * 8g sugar (helps caramelizing the crust at ‘lower’ temperatures of regular ovens)
+  * 20g salt
+  * 15g olive oil
+  * 1g yeast (I use organic cake yeast)
+  * 1-2 tsp sourdough (can be left out but gives the dough a light zesty flavour - consider adding another gram of yeast if you don’t use sour dough)
 
 Day 1
 
