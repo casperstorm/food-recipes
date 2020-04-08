@@ -5,7 +5,7 @@
 This is the default sauce I use for my homemade pizzas. What makes this sauce special is that it uses anchovies and "San Marzano" tomatoes. "San Marzano" tomatoes can be hard to come by, so if you can’t find any, then order some online because they are worth it.
 
 **Preparation**: 50 min  
-**Makes**: sauce for ~8 pizzas
+**Makes**: sauce for ~5 pizzas
 
 ## Ingredients 
   * 0.5 dl olive oil
